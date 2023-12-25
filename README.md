@@ -1,4 +1,5 @@
 ### Hi there 👋
+<br/>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gopinaths2401/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gopi.2401/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:gopicoc2401@gmail.com)![Visits Badge](https://badges.pufler.dev/visits/gopi2401/gopi2401?style=for-the-badge)
 <!--
 **gopi2401/gopi2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
