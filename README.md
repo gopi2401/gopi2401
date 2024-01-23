@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gopi2401&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Abhishek Choudhary" width="360"/>
   
 
+
 </p>
 <br/>
 
@@ -32,3 +33,8 @@ Here are some ideas to get you started:
 <!-- <p align="center"> 
    <img src= "https://github-profile-trophy.vercel.app/?username=gopi2401&theme=onedark" />
 </p> -->
+
+---
+#### testing tools
+<!--![mocha logo](https://github.com/gopi2401/gopi2401/assets/117622182/d7c022a9-5dfa-4170-87ba-1a7764c31749)-->
+[<img src="https://github.com/gopi2401/gopi2401/assets/117622182/d7c022a9-5dfa-4170-87ba-1a7764c31749" width="50" />](https://mochajs.org/)[<img src="https://avatars.githubusercontent.com/u/103283236?s=280&v=4" width="50" />](https://jestjs.io/)
